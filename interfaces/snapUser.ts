@@ -12,6 +12,3 @@ export interface SnapUser {
     bitMoji: string;
     subscription: boolean;
 }
-
-
-
